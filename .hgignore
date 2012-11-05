@@ -1,0 +1,14 @@
+syntax: glob
+source/MediaMatcher/dlls/MediaInfo_DLL_0.7.61_Windows_i386/
+source/MediaMatcher/dlls/MediaInfo_DLL_0.7.60_Windows_x64/
+source/MediaMatcher/MediaMatcher/bin/
+source/MediaMatcher/MediaMatcher/obj/
+source/MediaMatcher/ConsoleMediaMatcher/bin/
+source/MediaMatcher/ConsoleMediaMatcher/obj
+source/MediaMatcher/Framework/obj
+source/MediaMatcher/Framework/bin
+source/MediaMatcher/MediaContract/obj/
+source/MediaMatcher/MediaContract/bin
+source/MediaMatcher/MediaEntities/bin/
+source/MediaMatcher/MediaEntities/obj/
+
