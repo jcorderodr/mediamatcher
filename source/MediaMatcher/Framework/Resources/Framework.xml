@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<MediaMatcher>
+
+  <MediaTypes>
+    <Audio ext="*.mp3, *.ogg, *.wav" />
+    <Video>
+      
+    </Video>
+    <Image>
+      
+    </Image>
+  </MediaTypes>
+
+  <MediaGroupMode>
+    <mode name="default" order="0" value="category/genre/artist" />
+    <mode name="custom1" order="1" value="root/artist" />
+  </MediaGroupMode>
+  
+  <CustomSeek>
+    <Seek name="default">
+      <method>Performer</method>
+    </Seek>
+  </CustomSeek>
+
+  <MediaDisplay>
+    <Audio>Performer - Title [Album ; Genre ; Year]</Audio>
+    
+  </MediaDisplay>
+  
+</MediaMatcher>

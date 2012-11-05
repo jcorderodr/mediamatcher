@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MediaMatcher>
+
+  <Genres>
+    <genre>ACID_JAZZ</genre>
+    <genre>ACOUSTIC</genre>
+
+    <genre>AMBIENT</genre>
+    <genre>AMBIENT_TRANCE</genre>
+    <genre>ALTERNATIVE</genre>
+    <genre>ALTERNATIVE_METAL</genre>
+    <genre>ALTERNATIVE_POP</genre>
+    <genre>ALTERNATIVE_ROCK</genre>
+
+    <genre>BACKTRACK</genre>
+    <genre>BALAD</genre>
+    <genre>BLUES</genre>
+
+    <genre>CHILLOUT</genre>
+    <genre>CLASSIC</genre>
+    <genre>CLASSIC_ROCK</genre>
+    <genre>CLUB</genre>
+    <genre>COUNTRY</genre>
+
+    <genre>DANCE</genre>
+    <genre>DEATH_METAL</genre>
+    <genre>DEEP</genre>
+    <genre>DISCO</genre>
+    <genre>DOWNTEMPO</genre>
+    <genre>DRUM_AND_BASE</genre>
+
+    <genre>DUB</genre>
+    <genre>DUBSTEP</genre>
+
+    <genre>ELECTRO</genre>
+    <genre>ELECTRO_HOUSE</genre>
+
+    <genre>FOLK</genre>
+    <genre>FOLK_MMETAL</genre>
+    <genre>FUNK</genre>
+    <genre>FUNKY_HOUSE</genre>
+
+    <genre>GOSPEL</genre>
+    <genre>GOTHIC</genre>
+    <genre>GRUNGE</genre>
+
+    <genre>GARAGE_ROCK</genre>
+
+
+    <genre>HARDCORE</genre>
+    <genre>HARD_ROCK</genre>
+    <genre>HEAVY_METAL</genre>
+    <genre>HIP_HOP</genre>
+    <genre>HOUSE</genre>
+
+    <genre>INDIE</genre>
+    <genre>INDIE_POP</genre>
+    <genre>INDIE_ROCK</genre>
+    <genre>INDUSTRIAL</genre>
+    <genre>INDUSTRIAL_METAL</genre>
+
+    <genre>JAZZ</genre>
+
+    <genre>LATIN</genre>
+    <genre>LO_FI</genre>
+
+    <genre>MELODIC_METAL</genre>
+    <genre>MERENGUE</genre>
+    <genre>METAL</genre>
+
+    <genre>NEW_AGE</genre>
+    <genre>NEW_WAVE</genre>
+    <genre>NEO_PSYCHODELIC</genre>
+
+    <genre>ORCHESTAL</genre>
+
+    <genre>POP_ROCK</genre>
+    <genre>POWER_METAL</genre>
+    <genre>PROGRESSIVE_HOUSE</genre>
+    <genre>PROGRESSIVE_ROCK</genre>
+    <genre>PROGRESSIVE_TRANCE</genre>
+    <genre>PUNK_ROCK</genre>
+
+    <genre>ROCK</genre>
+
+    <genre>SMOOTH_JAZZ</genre>
+    <genre>SOFT_ROCK</genre>
+    <genre>SYMPHONIC_METAL</genre>
+
+    <genre>TECH_HOUSE</genre>
+    <genre>TRANCE</genre>
+    <genre>THRASH_METAL</genre>
+
+    <genre>VOCAL</genre>
+    <genre>VOCAL_JAZZ</genre>
+
+
+  </Genres>
+
+</MediaMatcher>

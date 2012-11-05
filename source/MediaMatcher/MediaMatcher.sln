@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Framework", "Framework\Framework.csproj", "{C1324C2C-2843-4392-8108-19B43091EA48}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentacion", "1 - Presentacion", "{7F1E874D-7B7F-4D89-8A7E-C580D79109E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Aplicacion", "2 - Aplicacion", "{3F06AC8F-CBE2-404D-BCC8-CEFED1E2DB03}"
+	ProjectSection(SolutionItems) = preProject
+		GenreSchema.xml = GenreSchema.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Dominio", "3 - Dominio", "{1CF6BCA2-3142-42AD-AA97-2FF753DE40DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Arquitectura", "0 - Arquitectura", "{6487F704-6FFD-42BA-9A21-81D5484A2CB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaEntities", "MediaEntities\MediaEntities.csproj", "{AD6ACB62-3B89-464D-80C1-7075316EB615}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaContract", "MediaContract\MediaContract.csproj", "{7A99F993-E408-448B-9251-8D4141F924CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaMatcher", "MediaMatcher\MediaMatcher.csproj", "{AC13EFB5-0A4E-4DB4-B136-9FAD614BB461}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMediaMatcher", "ConsoleMediaMatcher\ConsoleMediaMatcher.csproj", "{3EF42084-5DB7-4817-8B87-5F2BB8A5679E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1324C2C-2843-4392-8108-19B43091EA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1324C2C-2843-4392-8108-19B43091EA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1324C2C-2843-4392-8108-19B43091EA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1324C2C-2843-4392-8108-19B43091EA48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD6ACB62-3B89-464D-80C1-7075316EB615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD6ACB62-3B89-464D-80C1-7075316EB615}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD6ACB62-3B89-464D-80C1-7075316EB615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD6ACB62-3B89-464D-80C1-7075316EB615}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A99F993-E408-448B-9251-8D4141F924CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A99F993-E408-448B-9251-8D4141F924CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A99F993-E408-448B-9251-8D4141F924CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A99F993-E408-448B-9251-8D4141F924CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC13EFB5-0A4E-4DB4-B136-9FAD614BB461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC13EFB5-0A4E-4DB4-B136-9FAD614BB461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC13EFB5-0A4E-4DB4-B136-9FAD614BB461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC13EFB5-0A4E-4DB4-B136-9FAD614BB461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EF42084-5DB7-4817-8B87-5F2BB8A5679E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EF42084-5DB7-4817-8B87-5F2BB8A5679E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EF42084-5DB7-4817-8B87-5F2BB8A5679E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EF42084-5DB7-4817-8B87-5F2BB8A5679E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C1324C2C-2843-4392-8108-19B43091EA48} = {1CF6BCA2-3142-42AD-AA97-2FF753DE40DF}
+		{AD6ACB62-3B89-464D-80C1-7075316EB615} = {1CF6BCA2-3142-42AD-AA97-2FF753DE40DF}
+		{7A99F993-E408-448B-9251-8D4141F924CF} = {1CF6BCA2-3142-42AD-AA97-2FF753DE40DF}
+		{AC13EFB5-0A4E-4DB4-B136-9FAD614BB461} = {7F1E874D-7B7F-4D89-8A7E-C580D79109E8}
+		{3EF42084-5DB7-4817-8B87-5F2BB8A5679E} = {7F1E874D-7B7F-4D89-8A7E-C580D79109E8}
+	EndGlobalSection
+EndGlobal
