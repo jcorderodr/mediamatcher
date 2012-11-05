@@ -1,0 +1,50 @@
+
+Audio
+--------------------------------------
+Format = MPEG Audio
+
+Format_Settings_Mode = Joint stereo
+
+Duration/String3
+
+BitRate = 128000
+
+Channel(s) = 2
+
+StreamSize/String3 = 3.35 MiB
+
+-------------------------------------
+General
+-------------------------------------
+
+Audio_Format_List = MPEG Audio
+
+Rating
+
+Title = Botas Negras
+
+Album = Cria Cuervos
+
+Track/Position = 8
+
+Track/Position_Total = 13
+
+Performer = Toque Profundo
+
+Accompaniment = orquesta, etc
+
+Composer = daaa
+
+Label = trademark
+
+Genre = Rock
+
+Recorded_Date = 1999
+
+File_Modified_Date = UTC 2012-10-25 05:50:25.267
+
+Cover = yes/no [ Cover_Mime = image/png ; Cover_Data = usdlhfiuodsyfitsdufbtsaduyftsdoyfgsdo ]
+
+
+
+
