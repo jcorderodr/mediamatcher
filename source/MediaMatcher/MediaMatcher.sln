@@ -6,9 +6,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Presentacion", "1 - Presentacion", "{7F1E874D-7B7F-4D89-8A7E-C580D79109E8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Aplicacion", "2 - Aplicacion", "{3F06AC8F-CBE2-404D-BCC8-CEFED1E2DB03}"
-	ProjectSection(SolutionItems) = preProject
-		GenreSchema.xml = GenreSchema.xml
-	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - Dominio", "3 - Dominio", "{1CF6BCA2-3142-42AD-AA97-2FF753DE40DF}"
 EndProject

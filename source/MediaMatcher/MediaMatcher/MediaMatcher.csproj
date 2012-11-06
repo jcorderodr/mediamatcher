@@ -89,6 +89,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Forms\Configuration\" />
+    <Folder Include="Forms\IO\" />
+    <Folder Include="Forms\Misc\" />
+    <Folder Include="Forms\Search\" />
+    <Folder Include="Forms\Tools\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
